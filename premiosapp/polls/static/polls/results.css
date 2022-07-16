@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    color: hsl(204 100% 59%);
+}
+
+a {
+    background: linear-gradient( to right, hsl(98 100% 62%), hsl(204 100% 59%));
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a:hover {
+    color: white;
+}
